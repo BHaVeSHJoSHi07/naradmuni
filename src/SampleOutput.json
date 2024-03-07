@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "CBS News",
+    "title": "What Iowa caucus results say about GOP voters",
+    "description": "Iowa is only the first state in a monthslong nomination process for both parties. But is that process still achieving the results Americans desire? Lynn Vavreck, professor of American politics at UCLA, joins CBS News to discuss.",
+    "url": "https://www.cbsnews.com/video/what-iowa-caucus-results-say-about-gop-voters/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/16/f0877287-51cb-4e77-a8af-de5e40869d9d/thumbnail/1200x630/04e07c322d94f5455e1f034ebd37d2d3/cbsn-fusion-what-iowa-caucus-results-say-about-gop-voters-thumbnail.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+    "publishedAt": "2024-01-16T05:14:00+00:00",
+    "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+    "source": {
+    "id": "the-huffington-post",
+    "name": "The Huffington Post"
+    },
+    "author": "AP",
+    "title": "European Politics Is Veering To The Right. This Quiet Dutch Village Holds Vital Clues.",
+    "description": "Far-right parties are primed to gain seats — and more influence over immigration and civil rights policies — in upcoming European Union elections, say analysts.",
+    "url": "https://www.huffpost.com/entry/dutch-village-democracy-europe_n_65a51f71e4b0351062f2a6d6",
+    "urlToImage": "https://img.huffingtonpost.com/asset/65a5216a2200003600ad4b2d.jpeg?cache=A9qdz1732J&ops=1200_630",
+    "publishedAt": "2024-01-15T12:15:04Z",
+    "content": "SINT WILLEBRORD, The Netherlands (AP) Everyone is welcome, reads the sign at the church door in this quiet Dutch village, where neighbors greet each other from tidy porches overlooking manicured lawn… [+11328 chars]"
+    },
+    {
+    "source": {
+    "id": "the-american-conservative",
+    "name": "The American Conservative"
+    },
+    "author": null,
+    "title": "Politics Archives - The American Conservative",
+    "description": null,
+    "url": "https://www.theamericanconservative.com/category/politics/",
+    "urlToImage": null,
+    "publishedAt": "2022-07-07T21:37:27.3936289Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-jerusalem-post",
+    "name": "The Jerusalem Post"
+    },
+    "author": null,
+    "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+    "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+    "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+    "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+    "publishedAt": "2019-11-13T04:41:00Z",
+    "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+    ]
+    }
+    
